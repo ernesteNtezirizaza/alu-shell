@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # Use a while loop to iterate from 1 to 20
 count=1
 
